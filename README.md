@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Laksh Arora 
 - 👀 I’m interested in Web Development & Android Development!
-- 🌱 I’m currently mastered HTMl5 and learning CSS3
-- 💞️ I’m looking to collaborate on beginner HTML & CSS projects
+- 🌱 I’ve currently mastered HTMl5 and learning CSS3.
+- 💞️ I’m looking to collaborate on beginner HTML & CSS projects.
 - 📫 Reach me at https://cutt.ly/FnOeeAx
 
 <!---
